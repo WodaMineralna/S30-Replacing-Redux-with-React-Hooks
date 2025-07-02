@@ -1,5 +1,5 @@
 import { createContext, useState } from "react";
-import { toggleFav } from "../store/actions/products";
+// import { toggleFav } from "../store/actions/products";
 
 export const ProductsContext = createContext({
   products: [],
