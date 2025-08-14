@@ -2,11 +2,12 @@
 
 Practice code for Section 30 - Replacing Redux with React Hooks, part of the course "React - The Complete Guide (incl. Redux)" by Maximilian Schwarzmüller.
 
-This project covers
+This project covers:
 - Replace Redux with Context API and hooks
 - useReducer and useContext for shared state
-Project type
-- Based on a guided project
+  
+# Project type
+Implemented as part of a guided course project, with additional features and customizations added independently.
 
 ## Tech Stack
 - React
